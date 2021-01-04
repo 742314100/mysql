@@ -1,0 +1,23 @@
+2020-10-27T07:17:37.171464Z 0 [System] [MY-010116] [Server] C:\web\mysql-8.0.11-winx64\bin\mysqld (mysqld 8.0.11) starting as process 9884
+2020-10-27T07:17:38.705098Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-10-27T07:17:38.736100Z 0 [System] [MY-010931] [Server] C:\web\mysql-8.0.11-winx64\bin\mysqld: ready for connections. Version: '8.0.11'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-11-11T09:35:03.398915Z 0 [System] [MY-013105] [Server] C:\web\mysql-8.0.11-winx64\bin\mysqld: Normal shutdown.
+2020-11-11T09:35:04.509509Z 0 [System] [MY-010910] [Server] C:\web\mysql-8.0.11-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.11)  MySQL Community Server - GPL.
+2020-11-12T01:16:21.689148Z 0 [System] [MY-010116] [Server] C:\web\mysql-8.0.11-winx64\bin\mysqld (mysqld 8.0.11) starting as process 4708
+2020-11-12T01:16:23.581401Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-11-12T01:16:23.622005Z 0 [System] [MY-010931] [Server] C:\web\mysql-8.0.11-winx64\bin\mysqld: ready for connections. Version: '8.0.11'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-11-12T01:16:39.159852Z 0 [System] [MY-013105] [Server] C:\web\mysql-8.0.11-winx64\bin\mysqld: Normal shutdown.
+2020-11-12T01:16:40.406575Z 0 [System] [MY-010910] [Server] C:\web\mysql-8.0.11-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.11)  MySQL Community Server - GPL.
+2020-11-12T01:17:06.657772Z 0 [System] [MY-010116] [Server] C:\web\mysql-8.0.11-winx64\bin\mysqld (mysqld 8.0.11) starting as process 4840
+2020-11-12T01:17:09.023075Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-11-12T01:17:09.092261Z 0 [System] [MY-010931] [Server] C:\web\mysql-8.0.11-winx64\bin\mysqld: ready for connections. Version: '8.0.11'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-11-16T00:21:19.465071Z 0 [System] [MY-013105] [Server] C:\web\mysql-8.0.11-winx64\bin\mysqld: Normal shutdown.
+2020-11-16T00:21:20.527680Z 0 [System] [MY-010910] [Server] C:\web\mysql-8.0.11-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.11)  MySQL Community Server - GPL.
+2020-11-16T00:21:47.830137Z 0 [System] [MY-010116] [Server] C:\web\mysql-8.0.11-winx64\bin\mysqld (mysqld 8.0.11) starting as process 4932
+2020-11-16T00:21:50.257803Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-11-16T00:21:50.315414Z 0 [System] [MY-010931] [Server] C:\web\mysql-8.0.11-winx64\bin\mysqld: ready for connections. Version: '8.0.11'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-12-09T09:29:18.050627Z 0 [System] [MY-013105] [Server] C:\web\mysql-8.0.11-winx64\bin\mysqld: Normal shutdown.
+2020-12-09T09:29:19.641896Z 0 [System] [MY-010910] [Server] C:\web\mysql-8.0.11-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.11)  MySQL Community Server - GPL.
+2020-12-10T00:20:30.641931Z 0 [System] [MY-010116] [Server] C:\web\mysql-8.0.11-winx64\bin\mysqld (mysqld 8.0.11) starting as process 4884
+2020-12-10T00:20:32.389738Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-10T00:20:32.420986Z 0 [System] [MY-010931] [Server] C:\web\mysql-8.0.11-winx64\bin\mysqld: ready for connections. Version: '8.0.11'  socket: ''  port: 3306  MySQL Community Server - GPL.
